@@ -70,6 +70,7 @@ public class Controller implements Initializable {
                 }
             }
         });
+
     }
 
     // заполняем комбобокс дисками файловой системы
